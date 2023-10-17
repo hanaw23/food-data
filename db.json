@@ -73,6 +73,30 @@
       "harga": 18000,
       "is_ready": true,
       "gambar": "lontong-opor-ayam.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
     }
   ]
 }
